@@ -1,0 +1,10 @@
+.popup 
+{
+
+    background: rgba(0, 128, 128, 0.205);
+    color:black;
+    padding: 20px;
+    line-height: 25px;
+    border: solid teal;
+    border-radius: 12px;
+}
